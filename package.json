@@ -1,0 +1,42 @@
+{
+  "name": "netflix-clone",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "4.11.2",
+    "@material-ui/icons": "4.11.2",
+    "axios": "0.21.1",
+    "materialize-css": "1.0.0",
+    "react": "^16.6.3",
+    "react-animated-css": "1.2.1",
+    "react-dom": "^16.6.3",
+    "react-horizontal-scrolling-menu": "^0.4.2",
+    "react-responsive-modal": "^3.5.1",
+    "react-router-dom": "^4.3.1",
+    "react-script-tag": "1.1.2",
+    "react-scripts": "2.1.1",
+    "react-smooth": "^1.0.2",
+    "react-welcome-page": "0.2.1",
+    "surge": "^0.23.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "description": "Link to the site http://movies-database.surge.sh/",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
